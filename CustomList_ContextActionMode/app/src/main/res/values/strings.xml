@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Võ Thành Luân</string>
+    <string-array name="titles">
+        <item>Võ Thành Luân</item>
+        <item>Sweet but psycho</item>
+        <item>Childhood dream</item>
+        <item>Dusk till dawn</item>
+        <item>Love is gone</item>
+        <item>Someone you love</item>
+        <item>Saints</item>
+        <item>Apollo</item>
+        <item>Funny</item>
+        <item>Savage love</item>
+    </string-array>
+</resources>
